@@ -1,0 +1,56 @@
+#intex{
+    position: relative;
+    padding-left: 11px;
+}
+body{
+    background-size: cover;  
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Diplomata SC', cursive;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Kavoon', cursive;
+    font-family: 'Righteous', cursive;
+  }
+ button{
+    block-size: 20px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    color: blue;
+    border-block-start-color: aqua;
+ }
+  h1{
+      color: white;
+      margin-top: 1px;
+      margin-left: 90px;
+      padding-right: 60px;
+  }
+  h2{
+      color: aliceblue;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      padding-left: 30px;
+      padding-right: 10px;
+      padding-bottom: 30px;
+  }
+  h3{
+    color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      padding-left: 30px;
+      padding-right: 10px;
+      padding-bottom: 30px;
+}
+.registration{
+    font-size: medium;
+    width: 340px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    border: 1px solid black;
+    border-width: 3px;
+    margin-left: 490px;  
+    margin-top: 90px;
+    background-color:rgba(234, 234, 234, 0.01); 
+    color: aqua;
+}
+body{
+    background-size: cover;
+}
